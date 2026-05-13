@@ -7,6 +7,7 @@ If you're looking for "FREE" a way to turn your computer into a Windows Music Se
 <p align="center">
 
 </p>
+
 ## Key capabilities – What’s inside?
 - **Real-time audio kernel level modifications**
 - Modify Windows's MMCSS, force windows to focus on audio processs
