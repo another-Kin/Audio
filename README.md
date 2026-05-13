@@ -25,6 +25,7 @@ If you're looking for "FREE" a way to turn your computer into a Windows Music Se
 - Allocation IRQ
 - VISUAL/UI OPTIMIZATION
 - STORAGE / MEMORY tweaks
+
 <p align="center">
   <img src="http://raw.githubusercontent.com/another-Kin/Audio/refs/heads/main/image/Gemini_Generated_Image_n25h6bn25h6bn25h.png"  width="75%" alt="How it works">
 </p>
