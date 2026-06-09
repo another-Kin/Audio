@@ -4,7 +4,6 @@ echo Setting up Delayed Kill for Performance Services
 echo ====================================================
 echo.
 echo 1. Ensuring services can start with Windows to prevent Explorer delays...
-sc.exe config TimeBrokerSvc start= demand >nul 2>&1
 sc.exe config WpnService start= auto >nul 2>&1
 sc.exe config wlidsvc start= demand >nul 2>&1
 sc.exe config AppIDSvc start= demand >nul 2>&1
